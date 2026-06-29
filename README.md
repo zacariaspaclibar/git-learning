@@ -1,10 +1,10 @@
-# Hi, I'm Your Zacarias Paclibar 👋
+# Hi, I'm Your Zac 👋
 
 ## About Me
 
 - 🌱 I'm currently learning Git and version control
-- 💻 I'm interested in your interests e.g. cloud computing, web dev
-- 📫 How to reach me: your email or social link
+- 💻 I'm interested in your interests e.g. cloud computing, Software testing, and Automation
+- 📫 How to reach me: LinkedIn Account
 
 ## Projects
 
