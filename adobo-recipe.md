@@ -45,7 +45,7 @@
 
 ## Serving Suggestion
 
-Serve hot with steamed rice.
+[need to add]
 
 ## Tips
 
