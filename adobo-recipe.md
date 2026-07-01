@@ -45,7 +45,7 @@
 
 ## Serving Suggestion
 
-Serve hot with steamed rice.
+Serve hot with steamed rice or fried rice.
 
 ## Tips
 
