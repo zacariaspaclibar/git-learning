@@ -1,5 +1,7 @@
 # Conflict Practice
 
-## My Workflow Preferences
+## Tools I Use
 
-- I prefer rebasing feature branches for a clean linear history
+- Cursor for editing
+- Git CLI for version control
+- GitHub for collaboration
