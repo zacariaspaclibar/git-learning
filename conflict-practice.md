@@ -1,5 +1,7 @@
 # Conflict Practice
 
+# Conflict Practice Notes
+
 ## My Workflow Preferences
 
 - I prefer rebasing feature branches for a clean linear history
